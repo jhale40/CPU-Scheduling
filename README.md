@@ -42,4 +42,4 @@ public class Main
 
 ### Results
 
-<img src="images/result.PNG" width="350" alt="Results"> 
+<img src="images/result.png" alt="Results"> 
